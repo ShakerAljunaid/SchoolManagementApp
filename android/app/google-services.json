@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "581055715324",
+    "firebase_url": "https://ajialalsafaschool-51900-default-rtdb.firebaseio.com",
+    "project_id": "ajialalsafaschool-51900",
+    "storage_bucket": "ajialalsafaschool-51900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581055715324:android:4c9197894ac8fd8d92c479",
+        "android_client_info": {
+          "package_name": "com.agilesoftnet.ajialalsafaschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581055715324-2v3lld3blqq20tc7k0mqu6val5no15ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUzQyLNW1ub7leyjJ7QygtgZ7BAS-gJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581055715324-2v3lld3blqq20tc7k0mqu6val5no15ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581055715324:android:f6503ff75edceece92c479",
+        "android_client_info": {
+          "package_name": "com.example.try_html_content"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581055715324-2v3lld3blqq20tc7k0mqu6val5no15ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUzQyLNW1ub7leyjJ7QygtgZ7BAS-gJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581055715324-2v3lld3blqq20tc7k0mqu6val5no15ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
